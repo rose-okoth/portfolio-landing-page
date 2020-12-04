@@ -1,3 +1,10 @@
 h1 {
     color: slategray;
+    font-family: Verdana;
+}
+p {
+    font-family: Verdana;
+}
+ul {
+    line-height: 40px;
 }
