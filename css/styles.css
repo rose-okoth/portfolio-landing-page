@@ -1,14 +1,17 @@
 h1 {
-    color: slategray;
+    color: coral;
     font-family: Verdana;
 }
 p {
     font-family: Verdana;
-    color: gray;
+    color: coral;
 }
 ul {
     line-height: 40px;
 }
 .list {
-    color: gray
+    color: coral
+}
+body {
+    font-family: italic;
 }
