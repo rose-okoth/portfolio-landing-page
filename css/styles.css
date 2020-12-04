@@ -4,10 +4,11 @@ h1 {
 }
 p {
     font-family: Verdana;
+    color: gray;
 }
 ul {
     line-height: 40px;
 }
 body {
-    float; center
+    background-color: black;
 }
