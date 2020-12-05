@@ -1,20 +1,25 @@
 h1 {
-    color: coral;
+    color: black;
     font-family: Verdana;
 }
 p {
     font-family: Verdana;
-    color: coral;
+    color: black;
 }
 ul {
     line-height: 40px;
 }
 .list {
-    color: coral;
+    color: black;
 }
 body {
     font-family: italic;
 }
 img {
-    float: right;
+    float: left;
+}
+.column {
+    background-color: gray;
+    width: 450px;
+    float: center;
 }
