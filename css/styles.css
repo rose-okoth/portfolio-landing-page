@@ -20,11 +20,11 @@ img {
 }
 .column {
     background-color: gray;
-    width: 450px;
     float: center right;
+    width: 300px;
 }
 .important {
     background-color: gray;
-    width: 450px;
     float: center left;
+    width: 300px;
 }
