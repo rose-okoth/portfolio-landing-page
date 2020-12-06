@@ -20,11 +20,11 @@ img {
 }
 .column {
     background-color: rgba(169, 169, 169, 0.411);
-    float: center left;
+    text-align: center;
 }
 .important {
     background-color: rgba(169, 169, 169, 0.411);
-    float: center left;
+    text-align: center;
 }
 .test-box {
     border-left: 3px solid black;
