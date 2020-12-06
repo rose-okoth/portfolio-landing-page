@@ -33,7 +33,10 @@ img {
     border-bottom: 12px solid black;
     padding: 6px;
   }
-  .projects{
+  .projects {
       background-color: rgba(169, 169, 169, 0.411);
       text-align: center;
+  }
+  .link {
+      background-color: rgba(0, 174, 255, 0.836);
   }
