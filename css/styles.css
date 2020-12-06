@@ -16,14 +16,14 @@ body {
     font-family: italic;
 }
 img {
-    float: left;
+    float: center right;
 }
 .column {
-    background-color: gray;
+    background-color: rgba(169, 169, 169, 0.411);
     float: center left;
 }
 .important {
-    background-color: gray;
+    background-color: rgba(169, 169, 169, 0.411);
     float: center left;
 }
 .test-box {
