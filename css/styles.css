@@ -20,11 +20,16 @@ img {
 }
 .column {
     background-color: gray;
-    float: center right;
-    width: 300px;
+    float: center left;
 }
 .important {
     background-color: gray;
     float: center left;
-    width: 300px;
 }
+.test-box {
+    border-left: 3px solid black;
+    border-right: 6px solid black;
+    border-top: 9px solid black;
+    border-bottom: 12px solid black;
+    padding: 6px;
+  }
