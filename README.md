@@ -10,10 +10,11 @@
 
 
 #project setup instructions: 
+    It was built with HTML and CSS.
 
-    
 
 #link to live site on GitHub Pages: 
+    https://rose-okoth.github.io/portfolio-landing-page
 
 
 #copyright and license information: 
